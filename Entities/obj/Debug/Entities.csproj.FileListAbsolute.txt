@@ -1,0 +1,5 @@
+C:\Users\Karolos\source\repos\PrivateSchoolV2\Entities\bin\Debug\Entities.dll
+C:\Users\Karolos\source\repos\PrivateSchoolV2\Entities\bin\Debug\Entities.pdb
+C:\Users\Karolos\source\repos\PrivateSchoolV2\Entities\obj\Debug\Entities.dll
+C:\Users\Karolos\source\repos\PrivateSchoolV2\Entities\obj\Debug\Entities.pdb
+C:\Users\Karolos\source\repos\PrivateSchoolV2\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
